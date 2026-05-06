@@ -117,8 +117,10 @@
 
         .footer {
             margin-top: 20px;
-            padding: 10px;
-            background-color: #813669;
-            color: #ffffff;
+            padding-top: 20px;
+            background-color: black;
+            color: #e27696;
             border: 10.2 px solid #d57171;
         }
+        
+
