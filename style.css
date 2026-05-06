@@ -114,3 +114,11 @@
             font-size: 18px;
             margin-top: 10px;
         }
+
+        .footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #813669;
+            color: #ffffff;
+            border: 10.2 px solid #d57171;
+        }
